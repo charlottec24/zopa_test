@@ -119,3 +119,20 @@ body{
 	border-radius: 3px;
 	border: none;
 }
+
+#dashboard .trigger{
+	position: relative;
+}
+
+#dashboard .tooltip{
+	display: none;
+}
+
+#dashboard .trigger:hover .tooltip{
+	display: block;
+	position: absolute;
+	float: right;
+	background-color: #ffffff;
+	padding: 3em;
+	border: 1em solid #2ba1df;
+}
