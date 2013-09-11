@@ -1,0 +1,8 @@
+
+Please create the markup, styling and behaviour for the mockup depicted in "zopa-widget.png" (including its tooltip functionality in "zopa-widget-tooltip.png"). The "zopa-context.png" is provided as well to help understand the context of the widget but is otherwise not part of the task.
+
+* Browsers to support: IE7-10, latest Firefox, Chrome and Safari
+* Assume this basic font styling: `body { font: normal 87.5%/1.28 Arial, sans-serif; }`
+* Add the ID of "dashboard" to the element around your markup and start all CSS with `#dashboard`
+
+It is not important to be pixel perfect and get all elements right. It is more important to be able to see how you work.

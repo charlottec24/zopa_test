@@ -1,0 +1,121 @@
+body{
+	font: normal 87.5%/1.28 Arial, sans-serif;
+	line-height:
+}
+
+#dashboard{
+	width: 100%;
+	background-color: #ffffff;
+	vertical-align: middle;
+}
+
+#dashboard .widget{
+	padding: 3px;
+}
+
+#dashboard .heading{
+	overflow: hidden;
+}
+
+#dashboard .heading h1, h4{
+	font-weight: normal;
+	margin: 0;
+}
+
+#dashboard .heading h4{
+	float: left;
+}
+
+#dashboard .heading a.blueBoldLink{
+	float: right;
+	text-align: right;
+	font-weight: bold;
+	color: #2ba1df;
+	text-decoration: none;
+}
+
+#dashboard .offer{
+	padding: 4px;
+	background-color: #f3f1e6;
+	border-radius: 5px;
+}
+
+#dashboard .offer table{
+	width: 100%;
+}
+
+#dashboard .offer .offerWhite{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	background-color: #ffffff;
+}
+
+#dashboard .grey{
+	opacity: 0.3;
+}
+
+#dashboard .widthFifty{
+	width: 50%;
+}
+
+#dashboard .widthTwentyFive{
+	width: 25%;
+}
+
+#dashboard .widthFive{
+	width: 5%;
+}
+
+#dashboard .circleGreen{
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: #8dc63f;	
+}
+
+#dashboard .circleBlack{
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	background-color: #000000;	
+}
+
+#dashboard .circleGreenBorder{
+	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+	border: 4px solid #8dc63f;	
+}
+
+#dashboard span.orangeBold{
+	color: #fa8100;
+	font-weight: bold;
+}
+
+#dashboard span.blackBold{
+	color: #000000;
+	font-weight: bold;
+}
+
+#dashboard span.blueBold{
+	color: #2aa1df;
+	font-weight: bold;
+}
+
+#dashboard button.blueText{
+	font-weight: bold;
+	color: #2ba1df;
+	text-decoration: none;
+	background-color: #e0f4ff;
+	border: 1px solid #ace2ff;
+	border-radius: 3px;
+}
+
+#dashboard button.whiteText{
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+	background-color: #41abe5;
+	border-radius: 3px;
+	border: none;
+}
